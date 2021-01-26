@@ -9,4 +9,7 @@ Proj 3: Markov Decision Processes: Value iteration and Policy Iteration
 
 Proj 4: Rapidly Exploring Random Trees (RRT*) for path navigation from starting state to goal state, avoiding enviornmental obstacles.
 
-FaceID and Launhcer Project:     Designed a robot that had a structure that was completely 3D-prinatble. Robot responded to a remote input and determined if a human face was in view, then located the human face using a camera and OpenCV libraries. It performed the necessary trajectory calculations and then used on-board motors, infared and LiDAR sensors to determine the distance to target and then adjust itself to the correct state before launching a desirable candy to the human target.
+
+FaceID and Launcher Project:   
+
+Designed a robot that had a structure that was completely 3D-prinatble. Robot responded to a remote input and determined if a human face was in view, then located the human face using a camera and OpenCV libraries. It performed the necessary trajectory calculations and then used on-board motors, infared and LiDAR sensors to determine the distance to target and then adjust itself to the correct state before launching a desirable candy to the human target.
